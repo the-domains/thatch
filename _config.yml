@@ -1,9 +1,7 @@
-favicon: null
 name: thatch
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.35534
+typography_spectrum: 0.63087
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.125
-  brandStrength: 0.3125
-  rhythmicContrast: 0.5
   brandColors:
     - '#5491d2'
     - '#181c1d'
     - '#737778'
     - '#d1cdc2'
     - '#9ba3a6'
+  brandStrength: 0.3125
   lightness: 0.6875
-typography_spectrum: 0.83296
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.8157895
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.125
+  rhythmicContrast: 0.5
+purpose: []
